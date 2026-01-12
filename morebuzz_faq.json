@@ -8,40 +8,58 @@
       "label": "Sobre a campanha",
       "items": [
         {
-          "id": "faq_001",
-          "question": "O que é a campanha FF Indica?",
-          "answer_short": "É uma campanha de indicações que permite ao Divulgador ganhar recompensas em dinheiro ao indicar produtos por link ou QR Code.",
-          "answer_full": "A campanha FF Indica é um programa de indicações da More Buzz. Nela, o Divulgador compartilha links ou QR Codes personalizados de produtos ou serviços. Sempre que uma contratação acontece por meio dessas indicações, o Divulgador recebe recompensas financeiras, conforme as regras definidas para cada campanha."
+          "id": "faq_363",
+          "question": "O que é a campanha FF indica?",
+          "answer_short": "É uma Campanha de indicações que permite ao Divulgador ganhar recompensas em dinheiro sempre que alguém contratar um dos produtos da campanha através do seu…",
+          "answer_full": "É uma Campanha de indicações que permite ao Divulgador ganhar recompensas em dinheiro sempre que alguém contratar um dos produtos da campanha através do seu link ou QR Code de indicação."
         },
         {
-          "id": "faq_002",
-          "question": "Quem pode participar da campanha?",
-          "answer_short": "Qualquer pessoa cadastrada como Divulgador na plataforma pode participar.",
-          "answer_full": "Podem participar da campanha todas as pessoas que realizarem o cadastro como Divulgador na plataforma More Buzz e aceitarem os termos e condições da campanha vigente."
+          "id": "faq_364",
+          "question": "Quem pode participar da Campanha?",
+          "answer_short": "Qualquer pessoa física, maior de 18 anos, que se cadastre como Divulgador e aceite o REGULAMENTO GERAL DA CAMPANHA, O TERMO COMPLEMENTAR dos produtos e os TE…",
+          "answer_full": "Qualquer pessoa física, maior de 18 anos, que se cadastre como Divulgador e aceite o REGULAMENTO GERAL DA CAMPANHA, O TERMO COMPLEMENTAR dos produtos e os TERMOS E CONDIÇOES GERAIS - PLATAFORMA MORE BUZZ."
         },
         {
-          "id": "faq_003",
+          "id": "faq_366",
           "question": "O Divulgador precisa vender algo?",
-          "answer_short": "Não. O Divulgador apenas indica produtos ou serviços.",
-          "answer_full": "O Divulgador não realiza vendas diretamente. Sua função é indicar produtos ou serviços por meio de links ou QR Codes. Todo o processo de contratação, pagamento e entrega é feito pela empresa responsável pelo produto."
+          "answer_short": "Não! O Divulgador não precisa vender nada!",
+          "answer_full": "Não! O Divulgador não precisa vender nada! Basta divulgar os seus links e QR Codes personalizados disponíveis na plataforma. As equipes de venda cuidarão de todo o atendimento na comercialização dos produtos."
         },
         {
-          "id": "faq_004",
-          "question": "O que são Negócios Diretos?",
-          "answer_short": "São contratações feitas diretamente pelo link ou QR Code do Divulgador.",
-          "answer_full": "Negócios Diretos são aqueles em que o cliente final realiza a contratação diretamente por meio do link ou QR Code compartilhado pelo Divulgador."
-        },
-        {
-          "id": "faq_005",
-          "question": "O que são Negócios Indiretos?",
-          "answer_short": "São contratações feitas por outros Divulgadores indicados por você.",
-          "answer_full": "Negócios Indiretos ocorrem quando um Divulgador indica outros Divulgadores, e esses realizam contratações. Nesse caso, o Divulgador original pode receber recompensas conforme as regras da campanha."
-        },
-        {
-          "id": "faq_006",
+          "id": "faq_368",
           "question": "Existe um limite de quanto o Divulgador pode ganhar?",
-          "answer_short": "Não há limite de ganhos definido.",
-          "answer_full": "Atualmente, não existe um limite máximo de ganhos para o Divulgador. Os valores recebidos dependem exclusivamente da quantidade e do tipo de indicações realizadas, conforme as regras da campanha."
+          "answer_short": "Não! O potencial é ilimitado. Quanto mais Negócios realizados através dos links e Qr Codes do Divulgador, mais recompensas receberá.",
+          "answer_full": "Não! O potencial é ilimitado. Quanto mais Negócios realizados através dos links e Qr Codes do Divulgador, mais recompensas receberá. Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
+        },
+        {
+          "id": "faq_384",
+          "question": "Quando o Divulgador recebe os valores das comissões pelos negócios realizados?",
+          "answer_short": "Após solicitar o resgate no painel e seguir as orientações para o envio da nota fiscal, o valor será depositado na conta corrente da empresa cadastrada na pl…",
+          "answer_full": "Após solicitar o resgate no painel e seguir as orientações para o envio da nota fiscal, o valor será depositado na conta corrente da empresa cadastrada na plataforma."
+        },
+        {
+          "id": "faq_387",
+          "question": "O Divulgador precisa vender algum produto?",
+          "answer_short": "Não! O Divulgador não precisa vender nada.",
+          "answer_full": "Não! O Divulgador não precisa vender nada. Basta divulgar seus links e QR Codes personalizados disponíveis na plataforma. As equipes de vendas cuidarão de todo o atendimento e da comercialização dos produtos."
+        },
+        {
+          "id": "faq_409",
+          "question": "Como o Divulgador Pro pode aumentar sua base de Divulgadores?",
+          "answer_short": "Compartilhando o link de cadastro de Dilvuladores, o Divulgador Pro poderá aumentar sua base de divulgação e seus ganhos através dos Negócios Indiretos gerad…",
+          "answer_full": "Compartilhando o link de cadastro de Dilvuladores, o Divulgador Pro poderá aumentar sua base de divulgação e seus ganhos através dos Negócios Indiretos gerados por sua base."
+        },
+        {
+          "id": "faq_410",
+          "question": "O que são Negócios Diretos?",
+          "answer_short": "Négócios Diretos são aqueles decorrentes de vendas efetivamente realizadas por meio dos links exclusivos de produtos disponibilizados ao DIVULGADOR PRO, vinc…",
+          "answer_full": "Négócios Diretos são aqueles decorrentes de vendas efetivamente realizadas por meio dos links exclusivos de produtos disponibilizados ao DIVULGADOR PRO, vinculados à plataforma MORE BUZZ."
+        },
+        {
+          "id": "faq_411",
+          "question": "O que são Negócios Indiretos?",
+          "answer_short": "Negócios Indiretos são aqueles decorrentes de vendas realizadas por meio dos links de produtos dos DIVULGADORES cadastrados na plataforma MORE BUZZ a partir…",
+          "answer_full": "Negócios Indiretos são aqueles decorrentes de vendas realizadas por meio dos links de produtos dos DIVULGADORES cadastrados na plataforma MORE BUZZ a partir do link de cadastro do DIVULGADOR PRO."
         }
       ]
     },
@@ -50,22 +68,76 @@
       "label": "Cadastro e acesso",
       "items": [
         {
-          "id": "faq_101",
-          "question": "Como cancelar o cadastro e o contrato de Divulgador?",
-          "answer_short": "O cancelamento pode ser solicitado diretamente à More Buzz.",
-          "answer_full": "O Divulgador pode solicitar o cancelamento do cadastro e do contrato a qualquer momento, entrando em contato com a equipe de suporte da More Buzz pelos canais oficiais."
+          "id": "faq_373",
+          "question": "O Divulgador tem algum suporte para tirar dúvidas?",
+          "answer_short": "Sim! O Divulgador conta com atendimento via WhatsApp, e-mail: atendimento@morebuzz.com.br ou no formulário ao lado da FAQ.",
+          "answer_full": "Sim! O Divulgador conta com atendimento via WhatsApp, e-mail: atendimento@morebuzz.com.br ou no formulário ao lado da FAQ. Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
         },
         {
-          "id": "faq_102",
+          "id": "faq_377",
+          "question": "Por que o Divulgador não tem acesso às informações completas dos clientes indicados?",
+          "answer_short": "A More Buzz segue estritamente as disposições da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 – LGPD), bem como quaisquer outras normas aplicá…",
+          "answer_full": "A More Buzz segue estritamente as disposições da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 – LGPD), bem como quaisquer outras normas aplicáveis ao tratamento de dados pessoais, dessa forma, os dados dos clientes só podem ser compartilhados com as empresas responsáveis pelo produto e serviço de interesse."
+        },
+        {
+          "id": "faq_382",
+          "question": "Como cancelar o cadastro como Divulgador?",
+          "answer_short": "Para solicitar o descadastramento como Divulgador, basta enviar um e-mail para atendimento@morebuzz.com.br ou através do formulário ao lado da FAQ, constando…",
+          "answer_full": "Para solicitar o descadastramento como Divulgador, basta enviar um e-mail para atendimento@morebuzz.com.br ou através do formulário ao lado da FAQ, constando nome completo, CPF, telefone e e-mail de cadastro na plataforma."
+        },
+        {
+          "id": "faq_402",
           "question": "Por que não tenho acesso às informações completas dos clientes indicados?",
-          "answer_short": "Por motivos de segurança e proteção de dados.",
-          "answer_full": "As informações completas dos clientes não são disponibilizadas aos Divulgadores para garantir a segurança dos dados e o cumprimento da legislação de proteção de dados pessoais (LGPD)."
+          "answer_short": "A MORE BUZZ segue rigorosamente a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 – LGPD) e demais normas aplicáveis.",
+          "answer_full": "A MORE BUZZ segue rigorosamente a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 – LGPD) e demais normas aplicáveis. Por isso, os dados dos clientes só podem ser compartilhados com as empresas responsáveis pelo produto ou serviço de interesse."
         },
         {
-          "id": "faq_103",
-          "question": "O Divulgador tem suporte para tirar dúvidas?",
-          "answer_short": "Sim. O suporte é feito por WhatsApp, e-mail ou formulário.",
-          "answer_full": "O Divulgador conta com atendimento via WhatsApp, e-mail (atendimento@morebuzz.com.br) ou pelo formulário disponível na plataforma, para esclarecer dúvidas ou solicitar apoio."
+          "id": "faq_403",
+          "question": "Como cancelar o cadastro e o contrato de Divulgador?",
+          "answer_short": "Para solicitar o descadastramento, basta enviar um e-mail para atendimento@morebuzz.com.br ou preencher o formulário ao lado da FAQ, informando o nome comple…",
+          "answer_full": "Para solicitar o descadastramento, basta enviar um e-mail para atendimento@morebuzz.com.br ou preencher o formulário ao lado da FAQ, informando o nome completo, CNPJ, telefone e e-mail de cadastro na plataforma."
+        },
+        {
+          "id": "faq_407",
+          "question": "Existe algum suporte para tirar dúvidas?",
+          "answer_short": "Sim! O Canal conta com atendimento via WhatsApp, e-mail: atendimento@morebuzz.com.br ou no formulário ao lado da FAQ.",
+          "answer_full": "Sim! O Canal conta com atendimento via WhatsApp, e-mail: atendimento@morebuzz.com.br ou no formulário ao lado da FAQ. Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
+        }
+      ]
+    },
+    {
+      "id": "acompanhamento",
+      "label": "Acompanhamento",
+      "items": [
+        {
+          "id": "faq_367",
+          "question": "Como acompanhar as recompensas?",
+          "answer_short": "O saldo atualizado das recompensas de todos os negócios gerados pelas indicações do Divulgador podem ser acompanhados no painel do Divulgador, na aba “Meu Di…",
+          "answer_full": "O saldo atualizado das recompensas de todos os negócios gerados pelas indicações do Divulgador podem ser acompanhados no painel do Divulgador, na aba “Meu Dinheiro”."
+        },
+        {
+          "id": "faq_404",
+          "question": "Como acompanhar o cadastro de Divulgadores?",
+          "answer_short": "Os cadastros dos Divulgadores poderão ser acompanhados no \"Painel de Negócios CRM\" na aba \"Divulgadores\", sendo possível o download dos dados em arquivo exce…",
+          "answer_full": "Os cadastros dos Divulgadores poderão ser acompanhados no \"Painel de Negócios CRM\" na aba \"Divulgadores\", sendo possível o download dos dados em arquivo excel (.xml)."
+        },
+        {
+          "id": "faq_405",
+          "question": "Como acompanhar os negócios realizados?",
+          "answer_short": "Os negócios realizados pelos Divulgadores, poderão ser acompanhados no \"Painel de Negócios CRM\" na aba \"Todos os Negócios\", sendo possível a aplicação de fil…",
+          "answer_full": "Os negócios realizados pelos Divulgadores, poderão ser acompanhados no \"Painel de Negócios CRM\" na aba \"Todos os Negócios\", sendo possível a aplicação de filtros de busca e download dos dados em arquivo excel (.xml)."
+        }
+      ]
+    },
+    {
+      "id": "link_qr",
+      "label": "Link e QR Code",
+      "items": [
+        {
+          "id": "faq_365",
+          "question": "Onde o Divulgador encontra os links ou QR Codes dos produtos?",
+          "answer_short": "Os links e QR Codes exclusivos do Divulgador estarão disponíveis no painel do Divulgador em \"Meu Link de Indicação\".",
+          "answer_full": "Os links e QR Codes exclusivos do Divulgador estarão disponíveis no painel do Divulgador em \"Meu Link de Indicação\". Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
         }
       ]
     },
@@ -74,22 +146,64 @@
       "label": "Pagamentos e resgate",
       "items": [
         {
-          "id": "faq_201",
+          "id": "faq_369",
+          "question": "Como funciona o sistema de recompensas da Campanha?",
+          "answer_short": "s pelos negócios bem sucedidos, realizados a partir da divulgação dos links ou QR Codes (personalizados) dos produtos ou serviços disponibilizados na plataforma.",
+          "answer_full": "O Divulgador ganhará recompensas pelos negócios bem sucedidos, realizados a partir da divulgação dos links ou QR Codes (personalizados) dos produtos ou serviços disponibilizados na plataforma. IMPORTANTE! Os prazos, regras e percentuais de recompensas de cada produto estarão disponíveis no REGULAMENTO GERAL DA CAMPANHA e no TERMO COMPLEMENTAR de cada produto, disponíveis no painel do Divulgador na aba \"Meu Perfil\""
+        },
+        {
+          "id": "faq_378",
           "question": "Como o Divulgador ganha dinheiro?",
-          "answer_short": "Por meio das recompensas geradas pelas indicações realizadas.",
-          "answer_full": "O Divulgador ganha dinheiro sempre que uma contratação ocorre por meio de seus links ou QR Codes de indicação, conforme os critérios e valores definidos na campanha."
+          "answer_short": "O Divulgador ganha uma recompensa em dinheiro sempre que um produto ou serviço for contratado através do seu link ou QR Code personalizado, disponíveis no se…",
+          "answer_full": "O Divulgador ganha uma recompensa em dinheiro sempre que um produto ou serviço for contratado através do seu link ou QR Code personalizado, disponíveis no seu ambiente exclusivo na plataforma MORE BUZZ."
         },
         {
-          "id": "faq_202",
-          "question": "Quando o Divulgador recebe os valores das comissões?",
-          "answer_short": "Após a validação das indicações e conforme o prazo definido.",
-          "answer_full": "Os pagamentos são realizados após a validação das indicações, respeitando os prazos e regras estabelecidos pela campanha e pelos termos da plataforma."
+          "id": "faq_379",
+          "question": "Existe valor mínimo para solicitação de resgate?",
+          "answer_short": "Sim! O resgate ficará disponível sempre que as recompensas mensais, atingirem o valor mínimo de R$ 100,00 (cem reais).",
+          "answer_full": "Sim! O resgate ficará disponível sempre que as recompensas mensais, atingirem o valor mínimo de R$ 100,00 (cem reais). Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
         },
         {
-          "id": "faq_203",
-          "question": "Existe valor mínimo para solicitar o resgate?",
-          "answer_short": "Sim. O valor mínimo é definido nas regras da plataforma.",
-          "answer_full": "Para solicitar o resgate das recompensas, é necessário atingir o valor mínimo estipulado pela plataforma, conforme informado nas regras vigentes."
+          "id": "faq_380",
+          "question": "Como o Divulgador faz para resgatar as recompensas?",
+          "answer_short": "Após o preenchimento dos dados bancários na aba \"Meu Perfil\", o Divulgador acessará a aba “Meu Dinheiro” e clicará em “Solicitar Resgate” .",
+          "answer_full": "Após o preenchimento dos dados bancários na aba \"Meu Perfil\", o Divulgador acessará a aba “Meu Dinheiro” e clicará em “Solicitar Resgate” . O pagamento será realizada na data informada pela plataforma."
+        },
+        {
+          "id": "faq_381",
+          "question": "Posso fazer mais de uma solicitação de resgate no mês?",
+          "answer_short": "Sim! Até a data limite mensal para solicitação de resgate, você poderá fazer quantas solicitações de resgate desejar.",
+          "answer_full": "Sim! Até a data limite mensal para solicitação de resgate, você poderá fazer quantas solicitações de resgate desejar. Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
+        },
+        {
+          "id": "faq_386",
+          "question": "É possível fazer mais de uma solicitação de resgate no mês?",
+          "answer_short": "Não. Será permitido apenas um pedido de resgate por mês, realizado entre o primeiro e o quinto dia útil, mediante emissão da respectiva nota fiscal.",
+          "answer_full": "Não. Será permitido apenas um pedido de resgate por mês, realizado entre o primeiro e o quinto dia útil, mediante emissão da respectiva nota fiscal. O valor da nota fiscal abrangerá todas as comissões recebidas no mês anterior até a data de solicitação do resgate."
+        },
+        {
+          "id": "faq_390",
+          "question": "Como resgatar as recompensas?",
+          "answer_short": "Acesse a aba “Meu Dinheiro”, clique em “Processo de Saque para PJ”, siga os passos indicados e preencha os dados bancários.",
+          "answer_full": "Acesse a aba “Meu Dinheiro”, clique em “Processo de Saque para PJ”, siga os passos indicados e preencha os dados bancários. O valor será transferido na data informada pela plataforma."
+        },
+        {
+          "id": "faq_392",
+          "question": "Como funciona o sistema de remuneração dos produtos?",
+          "answer_short": "Cada produto disponibilizado na plataforma tem percentuais, prazos e regras específicas para o pagamento da comissão.",
+          "answer_full": "Cada produto disponibilizado na plataforma tem percentuais, prazos e regras específicas para o pagamento da comissão. Todas informações estão disponíveis no painel do Divulgador na aba \"Meu Perfil\" acessando o CONTRATO DE INTERMEDIAÇÃO E DIVULGAÇÃO DE NEGÓCIOS - POR ADESÃO e no Termo Específico do produto."
+        },
+        {
+          "id": "faq_393",
+          "question": "O Divulgador deve emitir nota fiscal para receber as recompensas?",
+          "answer_short": "Sim! Para receber as recompensas, é obrigatória a emissão de nota fiscal de serviço até o 5º (quinto) dia útil do mês.",
+          "answer_full": "Sim! Para receber as recompensas, é obrigatória a emissão de nota fiscal de serviço até o 5º (quinto) dia útil do mês. O envio deve ser feito via upload do arquivo em PDF, diretamente na plataforma MORE BUZZ, no momento do resgate."
+        },
+        {
+          "id": "faq_394",
+          "question": "Como emitir a nota fiscal de serviço?",
+          "answer_short": "O Divulgador deve seguir as orientações da MORE BUZZ quanto à descrição dos serviços, respeitando o código fiscal do seu município.",
+          "answer_full": "O Divulgador deve seguir as orientações da MORE BUZZ quanto à descrição dos serviços, respeitando o código fiscal do seu município. Em caso de dúvidas sobre o código, recomenda-se consultar o contador da empresa. Mais informações sobre a emissão da nota fiscal estão disponíveis na aba “Meu Dinheiro” → “Processo de Saque para PJ” (ou clique aqui)."
         }
       ]
     },
@@ -98,22 +212,40 @@
       "label": "Divulgação e materiais",
       "items": [
         {
-          "id": "faq_301",
+          "id": "faq_370",
           "question": "Há materiais de apoio para divulgação?",
-          "answer_short": "Sim. A plataforma disponibiliza materiais de divulgação.",
-          "answer_full": "A More Buzz disponibiliza materiais de apoio para facilitar a divulgação, como textos, artes e orientações, que podem ser utilizados pelos Divulgadores."
+          "answer_short": "iais para download e impressão, já com os QR Codes exclusivos por produto, preparados para diversas redes sociais e até impressão para pontos físicos comerciais.",
+          "answer_full": "Sim! O Divulgador encontra materiais para download e impressão, já com os QR Codes exclusivos por produto, preparados para diversas redes sociais e até impressão para pontos físicos comerciais. Basta acessar o Painel do Divulgador em \"Material de Divulgação\"."
         },
         {
-          "id": "faq_302",
-          "question": "A divulgação só pode ser feita com os materiais da plataforma?",
-          "answer_short": "Recomenda-se utilizar os materiais oficiais.",
-          "answer_full": "Para garantir alinhamento com a campanha e evitar informações incorretas, recomenda-se que o Divulgador utilize os materiais oficiais disponibilizados na plataforma."
+          "id": "faq_371",
+          "question": "Quais as formas de divulgar?",
+          "answer_short": "O Divulgador pode divulgar nas redes sociais, no WhatsApp, por e-mail ou até imprimir o a arte do produto com seu QR Code e expor no seu comércio.",
+          "answer_full": "O Divulgador pode divulgar nas redes sociais, no WhatsApp, por e-mail ou até imprimir o a arte do produto com seu QR Code e expor no seu comércio. Quanto mais divulgação, maiores as chances de ganho."
         },
         {
-          "id": "faq_303",
+          "id": "faq_372",
           "question": "O que não deve ser feito na divulgação?",
-          "answer_short": "Não é permitido divulgar informações falsas ou enganosas.",
-          "answer_full": "O Divulgador não deve divulgar informações incorretas, promessas não autorizadas ou qualquer conteúdo que não esteja alinhado às regras e materiais oficiais da campanha."
+          "answer_short": "O Divulgador não pode se anunciar como o vendedor ou propritário do produto, não pode modificar os textos do materiais de divulgaçãonão, não pode enviar mens…",
+          "answer_full": "O Divulgador não pode se anunciar como o vendedor ou propritário do produto, não pode modificar os textos do materiais de divulgaçãonão, não pode enviar mensagems em massa (SPAM), divulgar em sites de conteúdo adulto ou serviços ilegais ou via anúncio em site de buscas (adwords ou bingads)."
+        },
+        {
+          "id": "faq_374",
+          "question": "O que é permitido na divulgação de produtos/serviços da plataforma?",
+          "answer_short": "Toda a comunicação deve estar alinhada com as informações fornecidas de cada produto ou serviço, fornecidas na plataforma.",
+          "answer_full": "Toda a comunicação deve estar alinhada com as informações fornecidas de cada produto ou serviço, fornecidas na plataforma. Em caso de dúvidas, consulte sempre o suporte."
+        },
+        {
+          "id": "faq_375",
+          "question": "Existe algum compromisso ou meta quanto às divulgações?",
+          "answer_short": "Não. O Divulgador divulga quando e como quiser, sem nenhum compromisso, com total liberdade e flexibilidade.",
+          "answer_full": "Não. O Divulgador divulga quando e como quiser, sem nenhum compromisso, com total liberdade e flexibilidade. Se precisar de mais detalhes, consulte as regras da campanha/plataforma ou acione o suporte."
+        },
+        {
+          "id": "faq_376",
+          "question": "A divulgação só pode ser feita com os materiais disponíveis na plataforma?",
+          "answer_short": "Sim! Todos os materiais de divulgação personalizados estão disponíveis no Painel do Divulgador, são kits completos para cada produto ou serviço nos mais dive…",
+          "answer_full": "Sim! Todos os materiais de divulgação personalizados estão disponíveis no Painel do Divulgador, são kits completos para cada produto ou serviço nos mais diversos formatos (posts no feed, stories, reels, impressão, entre outros)."
         }
       ]
     }
